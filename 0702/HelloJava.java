@@ -1,6 +1,6 @@
 public class HelloJava {
     public static void main(String[] args) {
-        String name = "Wang" ;
+        String name = "王伯彥" ;
         System.out.println("Hello Java");
         System.out.println("My name is "+name);
         System.out.println("This is my Java practice");
