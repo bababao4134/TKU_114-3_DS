@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OrderSystemRefactor {
+public class OrderSystemRefactor_demo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int totalprice = 0;
