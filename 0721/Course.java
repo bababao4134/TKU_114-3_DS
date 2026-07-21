@@ -32,6 +32,6 @@ public class Course {
 
     @Override
     public String toString() {
-        return code + " | " + name + " | " + enrolled + "/" + capacity+ (isFull() ? " [額滿]" : "");
+        return code + " | " + name + " | "+ enrolled + "/" + capacity+ (isFull() ? " [額滿]" : "");
     }
 }
